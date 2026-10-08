@@ -33,10 +33,10 @@ My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**. I am a **Data Analyst** pas
 
 <p align="center">
   <a href="https://github.com/thunx280-ctrl/powerbi-dataco-supply-chain-analytics/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-dataco-supply-chain-analytics&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-dataco-supply-chain-analytics&theme=radical&v=1" />
   </a>
   <a href="https://github.com/thunx280-ctrl/powerbi-fashion-retail-marketing-analytics/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-fashion-retail-marketing-analytics&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-fashion-retail-marketing-analytics&theme=tokyonight&v=1" />
   </a>
 </p>
 
