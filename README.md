@@ -29,15 +29,6 @@ My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**. I am a **Data Analyst** pas
 
 ---
 
-## 📊 GitHub Analytics:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thunx280-ctrl&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="Thunx's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunx280-ctrl&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌟 Featured Data Projects:
 
 <p align="center">
