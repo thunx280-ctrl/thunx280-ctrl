@@ -3,7 +3,7 @@
 My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**. I am a **Data Analyst** passionate about transforming complex data into strategic business decisions. 
 
 - 📊 **Core Focus:** Business Intelligence, E-Commerce Growth Analytics & Global Supply Chain Operations.
-- 🛠️ **Tech Stack:** Power BI (DAX, Star Schema, Dynamic Parameters), SQL (Advanced Querying & Window Functions), Python (Data Pipelines, EDA & Scikit-Learn).
+- 🛠️ **Tech Stack:** Power BI (DAX, Star Schema), SQL (Window Functions, CTEs), Python (Data Pipelines, EDA & Scikit-Learn).
 - 🎯 **Mindset:** Business-first & Data Storytelling (Design Thinking 5W1H Framework).
 
 ---
@@ -33,16 +33,18 @@ My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**. I am a **Data Analyst** pas
 
 <p align="center">
   <a href="https://github.com/thunx280-ctrl/powerbi-dataco-supply-chain-analytics/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-dataco-supply-chain-analytics&theme=radical&v=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-dataco-supply-chain-analytics&theme=tokyonight&description=Operations+Control+Tower+analyzing+180k+orders+to+resolve+late+delivery+risk+and+restore+AOV." />
   </a>
   <a href="https://github.com/thunx280-ctrl/powerbi-fashion-retail-marketing-analytics/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-fashion-retail-marketing-analytics&theme=tokyonight&v=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-fashion-retail-marketing-analytics&theme=tokyonight&description=Tactical+marketing+attribution+dashboard+optimizing+7.67x+ROAS+and+analyzing+product+revenue." />
   </a>
-    <a href="https://github.com/thunx280-ctrl/medallion-datapipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=medallion-datapipeline&theme=tokyonight&v=1" />
+</p>
+<p align="center">
+  <a href="https://github.com/thunx280-ctrl/medallion-datapipeline/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=medallion-datapipeline&theme=tokyonight&description=Automated+3-tier+ELT+data+pipeline+with+Kimball+Star+Schema,+SCD+Type+2+and+reporting+marts." />
   </a>
   <a href="https://github.com/thunx280-ctrl/churn_prediction/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=churn_prediction&theme=radical&v=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=churn_prediction&theme=tokyonight&description=E-commerce+churn+prediction+model+achieving+94.7%+Recall+and+0.935+F1-score+using+LightGBM." />
   </a>
 </p>
 
@@ -52,7 +54,7 @@ My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**. I am a **Data Analyst** pas
 
 | Project | Domain | Stack | Key Impact & Highlights | Links |
 | :--- | :--- | :--- | :--- | :---: |
-| **DataCo Supply Chain Intelligence** | Supply Chain & Logistics | Power BI, DAX, Star Schema | Operations Control Tower analyzing 180k+ global orders; diagnosed 54.8% late delivery bottleneck & AOV -8.5% contraction. | [Repository](https://github.com/thunx280-ctrl/powerbi-dataco-supply-chain-analytics) • [Live Demo](https://novypro.com/) |
-| **Fashion Retail Marketing ROI** | E-Commerce / Retail | Power BI, DAX, Attribution | Full-funnel tactical marketing dashboard optimizing 7.67x ROAS (contributing 63% revenue) and isolating 3 Hero SKUs. | [Repository](https://github.com/thunx280-ctrl/powerbi-fashion-retail-marketing-analytics) • [Live Demo](https://novypro.com/) |
-| **Medallion Data Pipeline** *(Upcoming)* | Data Engineering | Python, DuckDB, Parquet | 3-tier automated data pipeline (Bronze $\rightarrow$ Silver $\rightarrow$ Gold) for data cleaning, transformation, and analytical marts. | *In Progress* |
-| **Customer Churn Prediction** *(Upcoming)* | Machine Learning | Python, Scikit-Learn, XGBoost | Classification model predicting customer churn risk, feature importance analysis, and retention action matrix. | *In Progress* |
+| **DataCo Supply Chain Intelligence** | Supply Chain & Logistics | Power BI, DAX, Star Schema | Operations Control Tower analyzing 180k+ orders; diagnosed 54.8% late delivery bottleneck & AOV -8.5% contraction. | [Repository](https://github.com/thunx280-ctrl/powerbi-dataco-supply-chain-analytics) |
+| **Fashion Retail Marketing ROI** | E-Commerce / Retail | Power BI, DAX, Attribution | Full-funnel tactical marketing dashboard optimizing 7.67x ROAS (contributing 63% revenue) and isolating 3 Hero SKUs. | [Repository](https://github.com/thunx280-ctrl/powerbi-fashion-retail-marketing-analytics) |
+| **Medallion Data Pipeline** | Data Engineering | Python, PostgreSQL, SCD2 | 3-tier automated ELT pipeline (Bronze $\rightarrow$ Silver $\rightarrow$ Gold) with Kimball Star Schema, SCD Type 2 & Point-in-time joins. | [Repository](https://github.com/thunx280-ctrl/medallion-datapipeline) |
+| **Customer Churn Prediction** | Machine Learning | Python, LightGBM, Scikit-Learn | End-to-end predictive classification pipeline achieving 94.74% Churn Recall and 0.9351 F1-score with proactive CRM matrix. | [Repository](https://github.com/thunx280-ctrl/churn_prediction) |
