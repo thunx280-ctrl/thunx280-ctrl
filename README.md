@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**. I am a **Data Analyst** passionate about transforming complex data into strategic business decisions. 
+My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**.
 
 - 📊 **Core Focus:** Business Intelligence, E-Commerce Growth Analytics & Global Supply Chain Operations.
 - 🛠️ **Tech Stack:** Power BI (DAX, Star Schema), SQL (Window Functions, CTEs), Python (Data Pipelines, EDA & Scikit-Learn).
