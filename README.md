@@ -33,23 +33,23 @@ My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**.
 
 <p align="center" >
   <a href="https://github.com/thunx280-ctrl/powerbi-dataco-supply-chain-analytics/">
-    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-dataco-supply-chain-analytics&theme=tokyonight&description=Operations+Control+Tower+analyzing+180k+orders+to+resolve+late+delivery+risk+and+restore+AOV." />
+    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-dataco-supply-chain-analytics&theme=tokyonight" />
   </a>
   <a href="https://github.com/thunx280-ctrl/powerbi-fashion-retail-marketing-analytics/">
-    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-fashion-retail-marketing-analytics&theme=tokyonight&description=Tactical+marketing+attribution+dashboard+optimizing+7.67x+ROAS+and+analyzing+product+revenue." />
+    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=powerbi-fashion-retail-marketing-analytics&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/thunx280-ctrl/medallion-datapipeline/">
-    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=medallion-datapipeline&theme=tokyonight&description=Automated+3-tier+ELT+data+pipeline+with+Kimball+Star+Schema,+SCD+Type+2+and+reporting+marts." />
+    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=medallion-datapipeline&theme=tokyonight" />
   </a>
   <a href="https://github.com/thunx280-ctrl/churn_prediction/">
-    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=churn_prediction&theme=tokyonight&description=E-commerce+churn+prediction+model+achieving+94.7%+Recall+and+0.935+F1-score+using+LightGBM." />
+    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=churn_prediction&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/thunx280-ctrl/E-commerce-RFM-Analysis">
-    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=E-commerce-RFM-Analysis&theme=tokyonight&border_radius=8" />
+    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/pin/?username=thunx280-ctrl&repo=E-commerce-RFM-Analysis&theme=tokyonight" />
   </a>
 </p>
 
