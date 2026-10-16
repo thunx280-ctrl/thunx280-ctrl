@@ -2,9 +2,9 @@
 
 My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**.
 
-- 📊 **Core Focus:** Business Intelligence, E-Commerce Growth Analytics & Global Supply Chain Operations.
+- 📊 **Core Focus:** Business Intelligence, E-Commerce Growth Analytics & Supply Chain Operations.
 - 🛠️ **Tech Stack:** Power BI (DAX, Star Schema), SQL (Window Functions, CTEs), Python (Data Pipelines, EDA & Scikit-Learn).
-- 🎯 **Mindset:** Business-first & Data Storytelling (Design Thinking 5W1H Framework).
+- 🎯 **Mindset:** Business-first & Data Storytelling (Design Thinking).
 
 ---
 
