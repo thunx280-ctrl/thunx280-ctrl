@@ -48,7 +48,7 @@ My name is **Xuan Thu Nguyen (Nguyễn Xuân Thu)**.
 </p>
 <p align="center">
   <a href="https://github.com/thunx280-ctrl/E-commerce-RFM-Analysis">
-    <img align="center" hspace="5" src="https://github-stats-extended.vercel.app/api/pin/?username=thunx280-ctrl&repo=E-commerce-RFM-Analysis&theme=tokyonight" />
+    <img align="center" hspace="5" src="https://github-stats-extended.vercel.app/api/pin/?username=thunx280-ctrl&repo=bigquery-ecommerce-web-analytics&theme=tokyonight" />
   </a>
 </p>
 
